@@ -5,6 +5,7 @@ author:
 publisher:
 kindle_asin:
 read_date: （読了日 YYYY-MM-DD。制度・数字の鮮度の目安になる）
+source: （highlights = ユーザーのハイライトから作成／prior-knowledge = Claudeの事前知識から作成）
 evidence_overall: （A〜D、本全体の目安）
 topics: []
 ---

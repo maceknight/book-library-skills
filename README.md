@@ -15,6 +15,8 @@
 
 ## 本を取り込む
 
+有名な本の一部は、Claudeの事前知識で先に作った「事前ノート」がある（各Skillの `references/index.md` で状態が「事前」の本）。その本のハイライトを取り込むと、事前ノートとの照合・修正が行われ、状態が「作成済」になる。
+
 1. Kindleのメモページ（read.amazon.co.jp/notebook）で、読んだ本のハイライトとメモをコピーする
 2. このリポジトリを開いた Claude Code のセッションに貼り、「〇〇（書名）を取り込んで」と頼む
 3. Claude が `skills/book-core/references/ingestion.md` の手順で、本のノート・分野のモジュール・共通原則・蔵書一覧を更新してコミットする
